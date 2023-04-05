@@ -8,3 +8,4 @@ for (let i = 1; i <= 100; i++) {
 }
 
 console.log(`Hay ${c} múltiplos de 2 y 3`);
+
